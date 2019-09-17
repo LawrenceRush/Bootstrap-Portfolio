@@ -1,5 +1,5 @@
 body{
-    font-family: "apercu",sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-image: url("photos/gravel.png");
 }
 
@@ -24,7 +24,7 @@ body{
 
 .footer{
     
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
   height: 50px; 
@@ -39,5 +39,35 @@ body{
     border-color: #4AAAA5 !important;
 }
 
+.aqua-color{
+    color:  #4AAAA5;
+    
+}
 
+h2{
+    font-size: 1.2em !important;
+}
+
+.border-div{
+    height: 2px;
+    background-color: rgb(175, 170, 170);
+    width: 100%;
+}
+
+.size-adjust{
+    height: 150px;
+    width: 150px;
+}
+
+.pull-left{
+    float: left;
+}
+
+.lh-2em{
+    line-height: 2em
+}
+
+.remove-mb{
+    margin-bottom: 0 !important;
+}
 
