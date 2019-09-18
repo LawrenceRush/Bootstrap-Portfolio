@@ -78,3 +78,8 @@ h2{
 .bg-true-white{
     background-color: white;
 }
+
+.format-button{
+    color:white;
+    background-color: #4AAAA5;
+}
