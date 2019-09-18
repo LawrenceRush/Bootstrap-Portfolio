@@ -83,3 +83,43 @@ h2{
     color:white;
     background-color: #4AAAA5;
 }
+
+.grid-item{
+    height: 130px;
+    width: 130px;
+    background-size: contain;
+    border-radius:50%;
+    overflow: hidden;
+}
+.grid-item1{
+    background-image: url("photos/placeholder1.jpg");
+    
+}
+.grid-item2{
+    background-image: url("photos/placeholder2.jpg");
+    
+}
+.grid-item3{
+    background-image: url("photos/placeholder3.jpg");
+    
+}
+.grid-item4{
+    background-image: url("photos/placeholder4.jpg");
+    
+}
+.grid-item5{
+    background-image: url("photos/placeholder5.jpg");
+    
+}
+.img-title{
+    height:22px;
+    width:100%;
+    background-color: #4AAAA5;
+    
+    color:white;
+    text-align: center;
+    line-height: 1.5em;
+    margin-top: 80px;
+    
+
+} 
